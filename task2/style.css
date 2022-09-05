@@ -1,0 +1,103 @@
+header{
+    background: url('https://i.pinimg.com/originals/45/3f/14/453f143ad31ed8482ebed9c4084b8059.jpg');
+        background-size: cover;
+    }
+#brand{
+    margin-left:5%;
+    margin-right: 50%;
+
+}
+span{
+    color: blue;
+}
+.nav-item{
+    margin-right: 3%;
+    margin-left: 3%;
+    color: black;
+}
+
+#HOME{
+    background-color: rgb(241, 241, 241);
+}
+
+#sec2{
+padding: auto;
+margin: 2%;
+}
+.workcard{
+    height: 450px;
+    width:350px ;
+}
+
+
+.btn {
+    background: blue;
+    margin-left: 1%;
+    margin-top: 10%;
+    padding: 1.5%;
+    color: aliceblue;
+    font-size: large;
+    width: 30%;
+    font-family: Montserrat;
+    margin-bottom: 33%;
+}
+
+.container-fluid {
+    margin-bottom: 2%;
+}
+progress{
+    height:15px;
+    width: 100%;
+   border-radius:0;
+   background-color: blue;
+}
+.card{
+    padding: 2%;
+    margin: 3%;
+    
+}
+.box{
+    margin-left: 36%;
+}
+.formitem{
+    padding: 1%;
+    margin: 1%;
+    border: 2px solid;
+    height: auto;
+    width: 40%;
+    border-radius: 1%;
+}
+.textitem{
+    padding: 1%;
+    margin: 1%;
+    border: 2px solid;
+    height: 210px;
+    width: 40%;
+    border-radius: 1%;
+}
+#submit{
+    background:rgb(20, 43, 255);
+    margin-left: 23%;
+    margin-top: 1%;
+    padding: 1%;
+    color: aliceblue;
+    font-size: large;
+    height: auto;
+    width: 18%;
+    font-family:Luxurious;
+}
+#heading{
+    font-family: sans-serif;
+    font-size: 60px;
+}
+footer{
+    background: blue;
+    padding: 25px 33px;
+    color: #fff;
+    text-align: center;
+}
+i
+{
+    padding: 25px;
+}
+  
